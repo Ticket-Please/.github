@@ -12,4 +12,4 @@
 ### <img src="[https://velog.velcdn.com/images/ppocchi/post/e586ae51-9913-42e3-b0c3-f27aea691009/image.png](https://imghub.insilicogen.com/media/photos/lbj_notion_0.png)" width="18px"> 노션
 > 표주시게 팀에 대해 더 알아보고 싶다면?
 
-[@표주시게 팀 노션]([https://www.instagram.com/knu.haedal/](https://dobbyreact.notion.site/K-Digital-Platform-b1319ace1d2c4fd8ad7c982a39b60ae3?pvs=4))
+[@표주시게 팀 노션](https://www.instagram.com/knu.haedal/](https://dobbyreact.notion.site/K-Digital-Platform-b1319ace1d2c4fd8ad7c982a39b60ae3?pvs=4)
