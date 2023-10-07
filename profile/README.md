@@ -1,5 +1,5 @@
 # 🚅 K-Digital Platform 동아리 리빙랩
-<p align="center"><img src="https://velog.velcdn.com/images/ppocchi/post/32705e61-d376-4af9-886f-c1ee587fb0a6/image.png"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/b0/df/95/b0df95cfc6f31293d002d4d6daac253c.jpg"></p>
 
 안녕하세요, 2023 K-디지털플랫폼 동아리 리빙랩 표주시게 팀입니다. <br/>
 표주시게 팀은 코레일 열차 온라인 예매 도우미 - 온라인 열차 예매에 서툰 사용자, 특히 중장노년층을 타겟으로 하는 챗봇을 통한 자동 예매 시스템과 예매 연습 시스템을 구현계획입니다.
