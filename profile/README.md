@@ -12,7 +12,7 @@
 |[<img src="https://github.com/joojjang.png" width="100px">](https://github.com/joojjang) | [<img src="https://github.com/Dobbymin.png" width="100px">](https://github.com/Dobbymin) |[<img src="https://github.com/kwonssshyeon.png" width="100px">](https://github.com/kwonssshyeon) |[<img src="https://github.com/rnjs5540.png" width="100px">](https://github.com/rnjs5540) |
 | 김민주 | 김강민 | 권수현 | 권용민 |
 
-### <img src="[https://velog.velcdn.com/images/ppocchi/post/e586ae51-9913-42e3-b0c3-f27aea691009/image.png](https://imghub.insilicogen.com/media/photos/lbj_notion_0.png)" width="18px"> 노션
+### <img src="https://imghub.insilicogen.com/media/photos/lbj_notion_0.png" width="18px"> 노션
 > 표주시게 팀에 대해 더 알아보고 싶다면?
 
 [@표주시게 팀 노션](https://dobbyreact.notion.site/K-Digital-Platform-b1319ace1d2c4fd8ad7c982a39b60ae3?pvs=4)
